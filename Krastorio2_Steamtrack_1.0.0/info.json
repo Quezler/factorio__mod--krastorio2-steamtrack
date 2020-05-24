@@ -1,0 +1,9 @@
+{
+  "name": "Krastorio2_Steamtrack",
+  "version": "1.0.0",
+  "factorio_version": "0.18",
+  "title": "Krastorio2 Steamtrack",
+  "author": "Quezler",
+  "dependencies": ["base", "Krastorio2", "steamTrains"],
+  "description": "[krastorio 2] + [steam trains] + (random rebalance) = this"
+}
